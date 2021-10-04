@@ -1,0 +1,6 @@
+nama = input("Masukkan Nama : ")
+nim = input("Masukkan NIM : ")
+ttl = input('Masukkan Tempat Tanggal Lahir : ')
+umur = int(input("Masukkan umur : "))
+beratBadan = float(input("Masukkan berat Badan :"))
+print("Nama Kamu :",nama,"\n Umur Kamu :",umur,"\nBerat Badan :",beratBadan)
